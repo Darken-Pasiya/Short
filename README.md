@@ -12,16 +12,16 @@ you can short your any url...👊
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
 𝗥𝘂𝗻 𝘁𝗵𝗶𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱...
 
- `➢ pkg update && pkg upgrade!
+ `➢ pkg update && pkg upgrade!`
 
-➢ pkg install git
+`➢ pkg install git`
 
-➢ pkg install python
+`➢ pkg install python`
 
-➢ git clone https://github.com/Pasindu20030426/Short
+`➢ git clone https://github.com/Pasindu20030426/Short`
 
-➢ cd Short
+`➢ cd Short`
 
-➢ python short.py`
+`➢ python short.py``
 
 ▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
