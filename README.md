@@ -12,7 +12,7 @@ you can short your any url...👊
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
 𝗥𝘂𝗻 𝘁𝗵𝗶𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱...
 
- `➢ pkg update && pkg upgrade!`
+ `➢ pkg update && pkg upgrade`
 
 `➢ pkg install git`
 
