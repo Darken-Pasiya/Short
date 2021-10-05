@@ -1,6 +1,6 @@
 #### © You can short your any url
 
-<div align="center">
+<pasi align="center">
   <img src="https://telegra.ph/file/f4db2438fcfe85d3fcd26.jpg" width="400" height="200">
   <h1>Link Shortener</h1>
 
