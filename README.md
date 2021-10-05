@@ -1,3 +1,8 @@
+#### © You can short your any url
+
+<div align="center">
+  <img src="https://telegra.ph/file/f4db2438fcfe85d3fcd26.jpg" width="400" height="300">
+  <h1>Link Shortener</h1>
 
 █ 🄻🄸🄽🄺 🅂🄷🄾🅁🅃🄴🄽🄴🅁 █
 
@@ -7,7 +12,7 @@ you can short your any url...👊
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
 𝗥𝘂𝗻 𝘁𝗵𝗶𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱...
 
-➢ pkg update && pkg upgrade
+`➢ pkg update && pkg upgrade
 
 ➢ pkg install git
 
@@ -17,6 +22,6 @@ you can short your any url...👊
 
 ➢ cd Short
 
-➢ python short.py
+➢ python short.py`
 
 ▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
