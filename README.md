@@ -22,6 +22,6 @@ you can short your any url...👊
 
 `➢ cd Short`
 
-`➢ python short.py``
+`➢ python short.py`
 
 ▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
