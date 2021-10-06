@@ -6,8 +6,9 @@
 
  **🄻🄸🄽🄺 🅂🄷🄾🅁🅃🄴🄽🄴🅁**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=➩+You+Can+Short+Any+Url+From+This+Tool+...+👻&font=Fira%20Code&center=true&width=580&height=50">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239B13F7&size=30&center=true&vCenter=true&multiline=true&height=200&lines=%E2%9E%A9+You+Can+Short+;Your+URL+From;This+Tool...+%F0%9F%91%BB)](https://git.io/typing-svg)
+
+<br>
 
 𝐎𝐩𝐞𝐧 𝐓𝐞𝐫𝐦𝐮𝐱 𝐀𝐩𝐩 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
@@ -29,9 +30,3 @@
 
 ▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239B13F7&size=30&center=true&vCenter=true&multiline=true&lines=%E2%9E%A9+You+Can+Short+;Your+URL+From;This+Tool...+%F0%9F%91%BB)](https://git.io/typing-svg)
-
-
-
-
-<br><br>
