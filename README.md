@@ -1,7 +1,7 @@
 #### © You can short your any url
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=➩+You+Can+Short!;Any+URL;From+This+Tool...+👻;🛠+Creatod+By;Darken+Pasiya!;📱+Contact+me+:;𝐰𝐚.me/94782002997!&font=Fira%20Code&center=true&width=300&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=➩+𝗬𝗼𝘂+𝗖𝗮𝗻+𝗦𝗵𝗼𝗿𝘁!;𝗔𝗻𝘆+𝗨𝗥𝗟;𝗙𝗿𝗼𝗺+𝗧𝗵𝗶𝘀+𝗧𝗼𝗼𝗹...+👻;🛠+𝙲𝚛𝚎𝚊𝚝𝚘𝚍+𝙱𝚢;𝕯𝖆𝖗𝖐𝖊𝖓+𝕻𝖆𝖘𝖎𝖞𝖆!;📱+ᴄᴏɴᴛᴀᴄᴛ+ᴍᴇ+:;wa.me/94782002997!&font=Fira%20Code&center=true&width=300&height=50">
 </p>
 
  **🄻🄸🄽🄺 🅂🄷🄾🅁🅃🄴🄽🄴🅁**
