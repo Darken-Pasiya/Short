@@ -6,7 +6,8 @@
 
  **🄻🄸🄽🄺 🅂🄷🄾🅁🅃🄴🄽🄴🅁**
 
-you can short your any url...👊
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=➩+You+Can+Short+Any+Url+From+This+Tool+...+👻&font=Fira%20Code&center=true&width=380&height=50">
 
 𝐎𝐩𝐞𝐧 𝐓𝐞𝐫𝐦𝐮𝐱 𝐀𝐩𝐩 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
