@@ -6,8 +6,9 @@
 
  **🄻🄸🄽🄺 🅂🄷🄾🅁🅃🄴🄽🄴🅁**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239B13F7&size=30&center=true&vCenter=true&multiline=true&height=100&lines=%E2%9E%A9+You+Can+Short+!;Your+Any+URL+!;From!;This+Tool...+!%F0%9F%91%BB)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23F71D1D&lines=➩ You+Can+Short!;Any+URL+From+This+Tool...+👻;🛠+Creatod+By+Darken+Pasiya!;📱+Contact+me :+https://wa.me/94782002997!&font=Fira%20Code&center=true&width=480&height=50">
+</p>
 <br>
 
 𝐎𝐩𝐞𝐧 𝐓𝐞𝐫𝐦𝐮𝐱 𝐀𝐩𝐩 
