@@ -1,13 +1,11 @@
 #### © You can short your any url
 
-<pasi align="center">
-  <img src="https://telegra.ph/file/f4db2438fcfe85d3fcd26.jpg" width="400" height="200">
-  <h1>Link Short</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F71D1D&size=30&center=true&vCenter=true&multiline=true&height=200&lines=%E2%9E%A9+You+Can+Short+;Your+URL+From;This+Tool...+%F0%9F%91%BB)](https://git.io/typing-svg)  <h1>Link Short</h1>
 
  **🄻🄸🄽🄺 🅂🄷🄾🅁🅃🄴🄽🄴🅁**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=➩ You+Can+Short!;Any+URL+From+This+Tool...+👻;🛠+Creatod+By+Darken+Pasiya!;📱+Contact+me :+https://wa.me/94782002997!&font=Fira%20Code&center=true&width=280&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=➩+You+Can+Short!;Any+URL+From+This+Tool...+👻;🛠+Creatod+By+Darken+Pasiya!;📱+Contact+me+:+https://wa.me/94782002997!&font=Fira%20Code&center=true&width=480&height=50">
 </p>
 <br>
 
