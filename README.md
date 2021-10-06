@@ -30,7 +30,7 @@
 `➢ python short.py`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=▅▅▅▅▅▅▅▅▅▅▅▅&font=Fira%20Code&center=true&width=300&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?#000000&lines=▅▅▅▅▅▅▅▅▅▅▅▅&font=Fira%20Code&center=true&width=300&height=50">
 </p>
 
 
