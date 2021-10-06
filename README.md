@@ -10,7 +10,7 @@
 𝐎𝐩𝐞𝐧 𝐓𝐞𝐫𝐦𝐮𝐱 𝐀𝐩𝐩 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23480000&lines=▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅&font=Fira%20Code&center=true&width=400&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23480000&lines=▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅&font=Fira%20Code&center=true&width=400&height=50">
 </p>
 
 𝗥𝘂𝗻 𝘁𝗵𝗶𝘀 𝗰𝗼𝗺𝗺𝗮𝗻𝗱...
