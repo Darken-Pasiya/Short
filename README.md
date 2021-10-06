@@ -25,3 +25,6 @@ you can short your any url...👊
 `➢ python short.py`
 
 ▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
+<color="red">
+<h3>link shortner Tool By Darken Pasiya | Do not Copy or Edit This Repostery</h3>
+</color>
